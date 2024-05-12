@@ -20,3 +20,5 @@ How to Use:<br>
 Clone the Repository: Get a local copy of this repository to start working on the project.<br>
 Install Dependencies: Install the required Python libraries using pip install -r requirements.txt.<br>
 Execute the Notebooks: Run the provided Jupyter notebooks to process the images, train the SVM model, and evaluate the results.<br>
+Dataset:<br>
+link: https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset 
