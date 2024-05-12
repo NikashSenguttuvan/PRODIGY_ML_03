@@ -21,4 +21,9 @@ Clone the Repository: Get a local copy of this repository to start working on th
 Install Dependencies: Install the required Python libraries using pip install -r requirements.txt.<br>
 Execute the Notebooks: Run the provided Jupyter notebooks to process the images, train the SVM model, and evaluate the results.<br>
 Dataset:<br>
-link: https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset 
+link: https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset <br>
+Images:<br>
+<img width="905" alt="Screenshot 2024-05-12 192827" src="https://github.com/NikashSenguttuvan/PRODIGY_ML_03/assets/166650393/d2f0d990-a737-4ce2-b27b-0df1e26bc8e1"><br>
+<img width="929" alt="Screenshot 2024-05-12 193007" src="https://github.com/NikashSenguttuvan/PRODIGY_ML_03/assets/166650393/75bb6695-6a19-4682-9f08-209991395e44">
+
+
